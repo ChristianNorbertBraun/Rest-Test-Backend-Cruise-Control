@@ -1,0 +1,5 @@
+resources/CruiseControl.class
+status/Status.class
+communication/RequestHandler.class
+communication/ApplicationEntrance.class
+logic/StatusPicker.class
